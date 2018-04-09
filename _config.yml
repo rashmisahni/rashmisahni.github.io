@@ -1,9 +1,6 @@
-title: Rashmi Sahni's Webpage
-description: 
+title: Rashmi Sahni, Ph.D.
+description:
 show_downloads: true
+
 google_analytics:
 theme: jekyll-theme-cayman
-
-work: work.md
-resume: resume.md
-about: about.md
