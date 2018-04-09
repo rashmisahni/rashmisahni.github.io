@@ -3,3 +3,7 @@ description:
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
+
+work: work.md
+resume: index.html
+about: about.md
