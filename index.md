@@ -2,6 +2,8 @@
 layout: default
 ---
 
-## Resume
 
-Add resume here 
+## Work Samples
+
+This is the work samples page
+
