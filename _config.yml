@@ -1,9 +1,5 @@
 title: Rashmi Sahni's Webpage
 description: 
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
-
-work: work.md
-resume: resume.md
-about: about.md
