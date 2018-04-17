@@ -5,7 +5,7 @@ layout: default
 
 ## Videos
 
-<span style="color:green"> \*\* Styled, scripted, edited content of videos developed with explainer video production company.</span>
+##### \*\* Styled, scripted, edited content of videos developed with explainer video production company.
 
 <p>&nbsp;</p>
 
