@@ -5,7 +5,9 @@ layout: default
 
 ## Videos
 
-Styled, scripted, edited content of videos developed with explainer video production company.
+<span style="color:green"> \*\* Styled, scripted, edited content of videos developed with explainer video production company.</span>
+
+<p>&nbsp;</p>
 
 <iframe src="https://player.vimeo.com/video/207341308?byline=0&portrait=0" width="360" height="203" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <p>Velos eResearch is a comprehensive clinical research management system (CRMS) that helps manage all aspects of clinical research.</p>
