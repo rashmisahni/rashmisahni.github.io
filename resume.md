@@ -53,7 +53,7 @@ __Miranda House, University of Delhi__
 * "‘Take off her Veil," ASECS, Vancouver, Canada, Mar 2011
 
 ## Awards (Partial list)
-* Won two competitive teaching fellowships from Columbia University Core Program, 2014 - 2015
+* Teaching Fellowship, Columbia University, 2013 - 2015
 * Marjorie Hope Nicolson Doctoral Fellowship, Columbia University, 2008 - 2015 
 * Sarah G. Lubin Fellowship, Columbia University, 2011 - 2012  
 * Certificate for Lectureship (NET) awarded by University Grants Commission, India, 2006
