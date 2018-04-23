@@ -4,14 +4,14 @@ layout: default
 
 
 ## Presentations
-* "Upgrading Velos eResearch", Velos Annual Meeting, Fremont, CA, Apr 2017
+* _Upgrading Velos eResearch_, Velos Annual Meeting, Fremont, CA, Apr 2017
 
-* "Enquire, Reason, and Judge,” NEASECS, Syracuse University, NY, Sep 2014
+* _Enquire, Reason, and Judge_, NEASECS, Syracuse University, NY, Sep 2014
 
-* "God’s Revenge,” NEASECS, Yale University, CT, Oct 2013
+* _God’s Revenge_, NEASECS, Yale University, CT, Oct 2013
 
-* "Reconsidering Bravery, Reimagining Duels,” ASECS, Cleveland, OH, Apr 2013
+* _Reconsidering Bravery, Reimagining Duels_, ASECS, Cleveland, OH, Apr 2013
 
-* "Providential Detection,” ASECS, San Antonio, TX, Mar 2012
+* _Providential Detection_, ASECS, San Antonio, TX, Mar 2012
 
-* "‘Take off her Veil,” ASECS, Vancouver, Canada, Mar 2011
+* _‘Take off her Veil'_, ASECS, Vancouver, Canada, Mar 2011

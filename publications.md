@@ -14,7 +14,7 @@ layout: default
 
 * Literary Revolutions: Feminine Experiments in Drama in late Eighteenth Century England (Frances Burney and Elizabeth Inchbald). _The Yearly Review_ 15 (2007), 61-75.
 
-* But Today the Struggle: Neo-Realist Cinematic Chronicles of the Present. _Cerebration_, Issue 1-2, 2009.
+* 'But Today the Struggle': Neo-Realist Cinematic Chronicles of the Present. _Cerebration_, Issue 1-2, 2009.
 
 * Collins's 'detective business': The Moonstone as a Detective Novel. _The Victorian Web_, 2007. 
 
